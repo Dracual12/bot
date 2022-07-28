@@ -1,0 +1,7 @@
+aiogram
+torchvision
+torch
+Pillow
+translate
+matplotlib
+numpy
